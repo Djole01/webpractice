@@ -1,0 +1,38 @@
+
+
+
+#topText {
+    line-height: 0cm;
+    color:#DFF1F1;
+	font-size:20px;
+	padding: 10px;
+	width: 80%;
+	margin-left: 10%;
+	font-family: Impact;
+	text-align: center;
+	
+}
+#middleText {
+	color: black;
+	font-weight: 700;
+	
+}
+
+body{
+
+		background-image: url(./bkg.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+
+}
+
+#image {
+
+	max-width: 100%;
+	height: 524px;
+	 display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 841.125px;
+
+}
